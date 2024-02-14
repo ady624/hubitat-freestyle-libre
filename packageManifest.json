@@ -1,0 +1,29 @@
+{
+  "packageName": "Freestyle Libre Integration",
+  "author": "Adrian Caramaliu",
+  "minimumHEVersion": "0.0",
+  "licenseFile": "https://www.apache.org/licenses/LICENSE-2.0",
+  "dateReleased": "2024-02-13",
+  "apps": [
+    {
+      "id": "0460b931-9a78-40d4-af1b-dfa42c8187e9",
+      "name": "Freestyle Libre Link Up Integration",
+      "namespace": "ady624",
+      "location": "https://raw.githubusercontent.com/ady624/hubitat-freestyle-libre/master/freestyle-libre-integration-app.groovy",
+      "required": false,
+      "oauth": false,
+      "primary": false,
+      "version": "0.1.0"
+    }
+  ],
+  "drivers": [
+    {
+      "id": "a7aa8d54-23a1-4188-87d0-9759e47ff594",
+      "name": "Freestyle Libre User",
+      "namespace": "ady624",
+      "location": "https://raw.githubusercontent.com/ady624/hubitat-freestyle-libre/master/freestyle-libre-user-driver.groovy",
+      "required": false,
+      "version": "0.1.0"
+    }
+  ]
+}
