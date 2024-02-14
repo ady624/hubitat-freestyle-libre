@@ -1,5 +1,17 @@
 {
   "author": "Adrian Caramaliu",
   "gitHubUrl": "https://github.com/HubitatCommunity",
-  "payPalUrl": "https://www.paypal.com/paypalme/ady624"
+  "payPalUrl": "https://www.paypal.com/paypalme/ady624",
+  "packages": [
+    {
+      "id": "fdb2973d-e0f4-4082-a6dd-dd0590b17f9a",
+      "name": "Freestyle Libre Integration",
+      "category": "Integrations",
+      "location": "https://raw.githubusercontent.com/ady624/hubitat-freestyle-libre/master/packageManifest.json",
+      "description": "Freestyle Libre Integration",
+      "tags": [
+        "Health & Fitness"
+      ]
+    }
+  ]
 }
