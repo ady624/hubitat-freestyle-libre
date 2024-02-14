@@ -33,7 +33,7 @@ metadata {
     attribute "glucoseTimestamp", "long"
     attribute "glucose", "int"
     attribute "glucoseTrend", "int"
-    attribute "glucoseTrentArrow", "enum", TREND_ARROWS
+    attribute "glucoseTrendArrow", "enum", TREND_ARROWS
     attribute "glucoseTrendMessage", "enum", TREND_MESSAGES
 }
 
