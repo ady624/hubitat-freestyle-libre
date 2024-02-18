@@ -15,9 +15,8 @@
  */
 import groovy.transform.Field
 
-@Field TREND_ARROWS = ["↑", "↘", "→", "↗", "↑"]
-@Field TREND_MESSAGES = ["Rising rapidly", "Rising", "Steady", "Dropping", "Dropping rapidly"]
-
+@Field TREND_ARROWS = ["↓", "↘", "→", "↗", "↑"]
+@Field TREND_MESSAGES = ["Dropping rapidly", "Dropping", "Steady", "Rising", "Rising rapidly"]
 
 metadata {
   definition(name: "Freestyle Libre User", namespace: "ady624", author: "Adrian Caramaliu") {
